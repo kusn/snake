@@ -1,0 +1,6 @@
+D:\Kudryashov\Учеба\OOP\Snake\snake\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Kudryashov\Учеба\OOP\Snake\snake\Snake\Snake\bin\Debug\Snake.exe
+D:\Kudryashov\Учеба\OOP\Snake\snake\Snake\Snake\bin\Debug\Snake.pdb
+D:\Kudryashov\Учеба\OOP\Snake\snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\Kudryashov\Учеба\OOP\Snake\snake\Snake\Snake\obj\Debug\Snake.exe
+D:\Kudryashov\Учеба\OOP\Snake\snake\Snake\Snake\obj\Debug\Snake.pdb
